@@ -26,7 +26,6 @@ export default class Main {
     ctx.fillRect(0, 0, 100, 100)
 
     console.log(666)
-    console.log(wx)
 
   }
 
