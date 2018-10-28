@@ -16,7 +16,18 @@ export default class Main {
     // 维护当前requestAnimationFrame的id
     this.aniId    = 0
 
+    // this.test()
+
     this.restart()
+  }
+
+  test() {
+    ctx.fillStyle = 'blue'
+    ctx.fillRect(0, 0, 100, 100)
+
+    console.log(666)
+    console.log(wx)
+
   }
 
   restart() {
