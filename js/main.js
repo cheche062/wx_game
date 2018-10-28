@@ -16,7 +16,7 @@ export default class Main {
     // 维护当前requestAnimationFrame的id
     this.aniId    = 0
 
-    // this.test()
+    this.test()
 
     this.restart()
   }
