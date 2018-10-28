@@ -1,0 +1,25 @@
+{
+  "name": "wx_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheche062/wx_game.git"
+  },
+  "keywords": [
+    "微�游戏小微信"
+  ],
+  "author": "cheche062",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheche062/wx_game/issues"
+  },
+  "homepage": "https://github.com/cheche062/wx_game#readme",
+  "devDependencies": {
+    "ws": "^6.1.0"
+  }
+}
